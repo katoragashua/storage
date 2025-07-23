@@ -34,8 +34,8 @@ module.exports = {
   },
   etherscan: {
     apiKey: {
-      core_testnet2: process.env.CORE_TEST2_SCAN_KEY,
-      core_mainnet: process.env.CORE_MAIN_SCAN_KEY,
+      core_testnet2: "527e75a9d410436aab6398238567ff95",
+      core_mainnet: "a288f85e69b7464cb9180554b445ed86",
     },
     customChains: [
       {
